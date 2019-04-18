@@ -146,7 +146,7 @@ x.put(25,1)
 x.put(10,1)
 x.put(5,2)
 print(x)
-print(getHeight(x.root))
+
 x.put(15,3)
 
 x.put(4,4)
